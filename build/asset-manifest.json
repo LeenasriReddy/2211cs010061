@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2211cs010061/static/css/main.768b2f52.css",
+    "main.js": "/2211cs010061/static/js/main.37158830.js",
+    "static/js/592.11b1acc6.chunk.js": "/2211cs010061/static/js/592.11b1acc6.chunk.js",
+    "static/media/leenasri.png": "/2211cs010061/static/media/leenasri.e81df4e2669d0332147f.png",
+    "index.html": "/2211cs010061/index.html",
+    "main.768b2f52.css.map": "/2211cs010061/static/css/main.768b2f52.css.map",
+    "main.37158830.js.map": "/2211cs010061/static/js/main.37158830.js.map",
+    "592.11b1acc6.chunk.js.map": "/2211cs010061/static/js/592.11b1acc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768b2f52.css",
+    "static/js/main.37158830.js"
+  ]
+}
